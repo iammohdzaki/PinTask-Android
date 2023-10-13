@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">PinTask</string>
-    <string name="title_activity_main">MainActivity</string>
     <string name="my_tasks">My Tasks</string>
     <string name="calender">Calender</string>
     <string name="settings">Settings</string>
