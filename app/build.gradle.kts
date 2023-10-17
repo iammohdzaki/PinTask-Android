@@ -101,6 +101,9 @@ dependencies {
     // Navigation
     implementation(libs.nav.compose)
 
+    //Lottie
+    implementation(libs.lottie.compose)
+
     // Unit Test
     testImplementation(libs.junit)
     androidTestImplementation(platform(libs.compose.bom))

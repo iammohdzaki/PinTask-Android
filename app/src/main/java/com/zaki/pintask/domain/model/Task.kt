@@ -11,5 +11,6 @@ data class Task(
     val taskLabel: String,
     val taskType: Int,
     val createdOn: Long,
-    val expireOn: Long
+    val expireOn: Long,
+    val isCompleted: Boolean = false
 )

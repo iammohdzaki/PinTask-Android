@@ -7,4 +7,9 @@
     <string name="feedback">Feedback</string>
     <string name="about">About</string>
     <string name="request_feature">Request Feature</string>
+    <string name="your_tasks">Your Tasks</string>
+    <string name="no_tasks_found">No Tasks Found</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="tomorrow">Tomorrow</string>
 </resources>

@@ -97,7 +97,7 @@ class MainActivity : ComponentActivity() {
                     ) {
                         //Map Screens based on their routes
                         composable(Screens.Home.route) {
-                            HomeScreen(navController)
+                            HomeScreen(navController, modifier = Modifier)
                         }
                         composable(Screens.Calender.route) {
                             CalenderScreen(navController)
